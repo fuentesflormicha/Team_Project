@@ -7,6 +7,7 @@ There are few experiences better than playing a good game with your friends.  Or
 The documents that can be found in this repository are:
 
 - **Pre-Planning**: This folder contains all the documents related to the Pre-Planning phase of this project.
+
     - **Project F Project Proposal.pptx**: This document is the PowerPoint presentation associated with the conception of EzPlay, which was named Project F in the very early development phase.
 
 - **Project Plan**: This folder contains all the documents related to the Project Plan phase of this project.
@@ -21,12 +22,18 @@ The documents that can be found in this repository are:
 
     - **EzPlay System Requirements.docx**: This document contains the documentation of our system requirements process and the Description Model.
 
-    - **EzPlay Class Diagram.png**: This draw.io document contains the Class Diagram of our system, which visualizes the entities, methods, and relationships in the EzPlay system.
+    - **EzPlay Class Diagram.png**: This document contains the Class Diagram of our system, which visualizes the entities, methods, and relationships in the EzPlay system.
 
     - **EzPlay Mock UI.zip**: This folder contains the images of an early UI mockup for EzPlay shown during interviews with gamers.
 
-    - **EzPlay System Sequence Diagrams.drawio**: This document contains the System Sequence Diagrams for each use case (use cases are detailed in the Use Case Diagram and Descriptions files), which includes use case related entities and processes, as well as interactions listed in the methods of the Class Diagram.
+    - **EzPlay System Sequence Diagrams.drawio**: This draw.io document contains the System Sequence Diagrams for each use case (use cases are detailed in the Use Case Diagram and Descriptions files), which includes use case related entities and processes, as well as interactions listed in the methods of the Class Diagram.
 
     - **EzPlay Use Case Descriptions.xlsx**: This document contains the Use Case Descriptions of each use case (identified in Use Case Diagram.png), which details the step-by-step order of a scenerio.
 
-    - **EzPlay Use Case Diagram.drawio**: This document contains the use cases for the EzPlay System in a diagram.
+    - **EzPlay Use Case Diagram.drawio**: This draw.io document contains the use cases for the EzPlay System in a diagram.
+
+- **System Design**: This folder contains all the documents related to the System Design phase of this project.
+
+    - **EzPlay Sequence Diagrams.drawio**: This draw.io document contains the complete Sequence Diagrams for each use case.
+
+    - **EzPlay Statechart Diagrams.vsdx**: This Microsoft Visio document contains the Staechart for each entity in the EZPlay system.
