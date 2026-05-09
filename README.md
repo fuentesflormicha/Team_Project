@@ -6,9 +6,12 @@ There are few experiences better than playing a good game with your friends.  Or
 
 The documents that can be found in this repository are:
 
+- **Pre-Planning**: This folder contains all the documents related to the Pre-Planning phase of this project.
+    - **Project F Project Proposal.pptx**: This document is the PowerPoint presentation associated with the conception of EzPlay, which was named Project F in the very early development phase.
+
 - **Project Plan**: This folder contains all the documents related to the Project Plan phase of this project.
 
-    - **EzPlay Software Project Plan.docx**: This document contains the documentation of our planning process, from what we plan to achieve with EzPlay, to the features of our product, to the organization of the Bug Slayers Team.
+    - **EzPlay Project Plan.docx**: This document contains the documentation of our planning process, from what we plan to achieve with EzPlay, to the features of our product, to the organization of the Bug Slayers Team.
 
     - **Bug Slayers EzPlay WBS.mpp**: This Project file contains the expected schedule of EzPlay's development in the form of a Work Breakdown Structure and Gantt Chart, and also identifies our critical path and resources assigned to each task.
 
