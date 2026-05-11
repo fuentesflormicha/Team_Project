@@ -22,7 +22,7 @@ The documents that can be found in this repository are:
 
     - **EzPlay System Requirements.docx**: This document contains the documentation of our system requirements process and the Description Model.
 
-    - **EzPlay Class Diagram.png**: This document contains the Class Diagram of our system, which visualizes the entities, methods, and relationships in the EzPlay system.
+    - **EzPlay Class Diagram.drawio**: This draw.io document contains the Class Diagram of our system, which visualizes the entities, methods, and relationships in the EzPlay system.
 
     - **EzPlay Mock UI.zip**: This folder contains the images of an early UI mockup for EzPlay shown during interviews with gamers.
 
@@ -36,4 +36,8 @@ The documents that can be found in this repository are:
 
     - **EzPlay Sequence Diagrams.drawio**: This draw.io document contains the complete Sequence Diagrams for each use case.
 
-    - **EzPlay Statechart Diagrams.vsdx**: This Microsoft Visio document contains the Staechart for each entity in the EZPlay system.
+    - **EzPlay Statechart Diagrams.vsdx**: This Microsoft Visio document contains the Statechart for each entity in the EZPlay system.
+
+    - **Design-Level Class Diagram.drawio**: This draw.io document contains the complete Design Level Class Diagram, which relates classes to eachother and details the methods and attributes of each class.
+
+    - **EzPlay Class Diagram Pseudocode.docx**: This document contains the Pseudocode related to the Design-Level Class Diagram.
