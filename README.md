@@ -34,6 +34,8 @@ The documents that can be found in this repository are:
 
 - **System Design**: This folder contains all the documents related to the System Design phase of this project.
 
+    - **EzPlay System Design.docx**: This document contains the documentation of our system design process.
+    
     - **EzPlay Sequence Diagrams.drawio**: This draw.io document contains the complete Sequence Diagrams for each use case.
 
     - **EzPlay Statechart Diagrams.vsdx**: This Microsoft Visio document contains the Statechart for each entity in the EZPlay system.
